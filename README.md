@@ -1,4 +1,4 @@
-# Blockchain | Smart Contract | Solidity | NFT | Dapp | DeFi | Rust | React | Vue | TypeScript
+# Full Stack Blockchain Engineer
 
 💗 **Main Stack** 💗 
 
