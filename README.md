@@ -34,8 +34,8 @@
 
 <h2>📊 GitHub Stats </h2>
 <p>
-<img align="" height="150px" src="https://github-readme-stats.vercel.app/api?username=superGru625&layout=compact&theme=vision-friendly-white" >
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=superGru625&layout=compact&theme=vision-friendly-white">
+<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=superGru625&show_icons=true&theme=monokai&count_private=true">
+<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=superGru625&layout=compact&theme=monokai&count_private=true">
 </p>
 
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
