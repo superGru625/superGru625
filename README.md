@@ -1,10 +1,8 @@
+ <h5 align="center">
+  Hi, there! Wellcome to my github 🙋‍♂️
+ </h5> 
 <h1>
   <div align="center">
-    <div align="center">
-      <h2 align="center">
-         Hi, there! Wellcome to my github 🙋‍♂️
-      </h2> 
-     </div>
     <img src="https://lfsolutions.net/wp-content/uploads/2021/12/Full-Stack-Development-Featured-Image-LevelFive-Solutions.gif" width="870px height="870px"/>
   </div>   
 </h1>
