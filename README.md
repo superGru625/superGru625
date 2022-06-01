@@ -1,9 +1,8 @@
 <h1>
   <div align="center">
     <div align="center">
-       <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="30px height="30px"/>
-            Mike Nakamura
-        <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="30px height="30px"/><br/>
+         Mike Nakamura
+         <br/>
         BlockChain & Web & Mobile Developer
      </div>
     <img src="https://lfsolutions.net/wp-content/uploads/2021/12/Full-Stack-Development-Featured-Image-LevelFive-Solutions.gif" width="870px height="870px"/>
