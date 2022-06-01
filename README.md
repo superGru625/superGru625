@@ -1,9 +1,11 @@
 <h1>
   <div align="center">
     <div align="center">
-         Mike Nakamura
-         <br/>
-        BlockChain & Web & Mobile Developer
+         <h2 align="center">
+         Hi, there! Wellcome to my github 🙋‍♂️
+        </h2> 
+
+        <img align="right" alt="GIF" src="https://github.com/superJackiee/superJackiee/blob/main/image/giphy.gif" width="450" height="270" />
      </div>
     <img src="https://lfsolutions.net/wp-content/uploads/2021/12/Full-Stack-Development-Featured-Image-LevelFive-Solutions.gif" width="870px height="870px"/>
   </div>   
